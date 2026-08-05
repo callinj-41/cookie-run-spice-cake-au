@@ -26,7 +26,7 @@ A Cookie's Soulstone determines their capability for magic and power. Rarity is 
 - There is a ninth Soulstone, that being Witch.
 
 Cookies come in many races, though they can be split into some major categories.
-# Fae Cookies
+## Fae Cookies
 
 ```mermaid
 graph TD;
