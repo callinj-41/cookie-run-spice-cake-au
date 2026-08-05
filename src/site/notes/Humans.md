@@ -11,5 +11,6 @@ Humans come from a land far far away, and all known to Earthbread are either Wit
 ![firstmilkcookie.png](/img/user/images/firstmilkcookie.png)
 ==(Pictured here is First Milk Cookie, before her curse.)==
 
+Unfortunately, the greed and pride in First Egg Cookie's heart caused her to curse her brothers and sisters to oblivion, and *The Witch of Light* could only save herself and her followers by turning themselves into Cookies.
 
 
