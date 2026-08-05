@@ -33,7 +33,14 @@ graph TD;
 A[Millenial Tree Cookie]-->B{Fae}
 B-->C[Crispia Fae Cookies]
 B-->D[Beast-Yeast Fae Cookies]
+D-->E[White Lily Cookie]
 ```
+Examples:
+(Beast-Yeast Fae)
+![Elder_faerie_default.png\|200](/img/user/images/Elder_faerie_default.png)![Silverbell_default.png\|200](/img/user/images/Silverbell_default.png)
+(Crispia Fae)
+![White_lily_default.png\|200](/img/user/images/White_lily_default.png)
+*Half Flower*
 ## Plant Cookies
 
 ```mermaid
@@ -44,6 +51,14 @@ A-->D[Flower Cookies]
 D-->E[White Lily Cookie]
 ```
 
+Examples:
+(Flower Cookies)
+![Cherry_Blossom_Sprite_Default.png\|200](/img/user/images/Cherry_Blossom_Sprite_Default.png)![Golden_osmanthus_default.png\|200](/img/user/images/Golden_osmanthus_default.png)![LILAC1.png\|200](/img/user/images/LILAC1.png)
+
+(Leaf Cookies)
+![Herbbase.png\|200](/img/user/images/Herbbase.png)
+(Root Cookies)
+![Beet_default 1.png\|200](/img/user/images/Beet_default%201.png)![Carrotbase.png\|200](/img/user/images/Carrotbase.png)
 ## Fruit Cookies
 
 ```mermaid
@@ -52,6 +67,11 @@ A[First Berry Cookie]-->B[Berry Cookies]
 A-->C[Fruit Cookies]
 B-->D[Hollyberry Cookie]
 ```
+(Berry Cookies)
+![Holly_base_2.png\|200](/img/user/images/Holly_base_2.png)![Blackberrybase.png\|150](/img/user/images/Blackberrybase.png)![Raspberry_default.png\|200](/img/user/images/Raspberry_default.png)
+(Fruit Cookies)
+![Figbase.png\|200](/img/user/images/Figbase.png)![Mangobase.png\|200](/img/user/images/Mangobase.png)![Orange_default.png\|150](/img/user/images/Orange_default.png)
+*Fig Cookie is half creature*
 ## Sea Cookies
 
 ```mermaid
@@ -61,7 +81,13 @@ B-->C[Fish Cookies]
 A-->D[Mermaid Cookies]
 D-->E[Siren Cookies]
 ```
-
+Examples:
+(Fish Cookies)
+![Oyster_Sprite_Default.png\|200](/img/user/images/Oyster_Sprite_Default.png)![Captain_Caviar_Cookie_Default.png\|150](/img/user/images/Captain_Caviar_Cookie_Default.png)
+(Mermaid Cookies)
+![Frilled_jellyfish_default.png\|200](/img/user/images/Frilled_jellyfish_default.png)![SharkformMotivated.png\|200](/img/user/images/SharkformMotivated.png)
+(Siren Cookies)
+![Black_pearl_default.png\|200](/img/user/images/Black_pearl_default.png)
 ## Drink Cookies
 
 ```mermaid
@@ -69,7 +95,12 @@ graph TD;
 A[First Milk Cookie]-->B[Drink Cookies]
 A-->C[Milk Cookies]
 ```
-
+Examples:
+(Drink Cookies)
+![Seltzer_Cookie_default.png\|200](/img/user/images/Seltzer_Cookie_default.png)![Sparkling_default.png\|200](/img/user/images/Sparkling_default.png)
+(Milk Cookies)
+![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)
+*Affogato Cookie is half Cacao*
 ## Desert Cookies
 
 ```mermaid
@@ -84,7 +115,11 @@ J[Pure Vanilla Cookie]-->G{Ancient Vanillians}
 D-->H[Pastry Cookies]
 G-->I[The Patisserie]
 ```
-
+Examples:
+(The Patisserie)
+![Clotted_Cream_Sprite_Default.png\|200](/img/user/images/Clotted_Cream_Sprite_Default.png)![Kouign_amann_default.png\|200](/img/user/images/Kouign_amann_default.png)![Madebase.png\|200](/img/user/images/Madebase.png)
+(Pastry Cookies)
+![Cream_puff_default.png\|150](/img/user/images/Cream_puff_default.png)![Creme_brulee_default.png\|200](/img/user/images/Creme_brulee_default.png)![Eclair_default.png\|200](/img/user/images/Eclair_default.png)
 ## Chocolate Cookies
 
 ```mermaid
@@ -93,7 +128,11 @@ A[First Choco Cookie]-->B[Choco Cookies]
 A-->C[Cacao Cookies]
 C-->D[Dark Cacao Cookie]
 ```
-
+Examples:
+(Choco Cookies)
+![Choco_drizzle_default.png\|200](/img/user/images/Choco_drizzle_default.png)![Caramel_arrow_default (1).png\|200](/img/user/images/Caramel_arrow_default%20(1).png)![Crunchy_chip_default.png\|200](/img/user/images/Crunchy_chip_default.png)
+(Cacao Cookies)
+![Dark_cacao_default.png\|200](/img/user/images/Dark_cacao_default.png)![Dark_choco_base 1.png\|200](/img/user/images/Dark_choco_base%201.png)
 ## Salt Cookies
 
 ```mermaid
@@ -102,7 +141,18 @@ A[First Salt Cookie]-->D{General cookies w/ salt traits}
 B[Silent Salt Cookie]-->D
 D-->C[Salt Cookies]
 ```
+Examples:
+![salt_cellar_default.png\|200](/img/user/images/salt_cellar_default.png)![Silent_salt_default 1.png\|200](/img/user/images/Silent_salt_default%201.png)
+## Cheese Cookies
 
+```mermaid
+graph TD;
+A[Milk Cookies]-->C[Cheese Cookies]
+B[Fire Spirit Cookie]-->D{Ancient fire cookies}
+D-->C
+```
+Examples:
+![Mozzarella_default.png\|200](/img/user/images/Mozzarella_default.png)![Smoked_cheese_default.png\|200](/img/user/images/Smoked_cheese_default.png)![Golden_cheese_default (1) 1.png\|200](/img/user/images/Golden_cheese_default%20(1)%201.png)
 ## Harpy Cookies
 
 ```mermaid
@@ -110,9 +160,11 @@ graph TD;
 A[Pastry Cookies]-->B{Blessing of Stormbringer Cookie}
 B-->C[Harpy Cookies]
 C-->D[Golden Cheese Cookie]
+F[Cheese Cookies]-->D
 C-->E[Wind Deity Cookie]
 ```
-
+Examples:
+![Sugarfly_default.png\|200](/img/user/images/Sugarfly_default.png)![Golden_cheese_default (1).png\|200](/img/user/images/Golden_cheese_default%20(1).png)
 ## Spice Cookies
 
 ```mermaid
@@ -121,3 +173,5 @@ A[Burning Spice Cookie]-->B{Many generations}
 B-->C[Spice Cookies]
 B-->D[Wild Spices]
 ```
+Examples:
+![Burning_spice_default.png\|200](/img/user/images/Burning_spice_default.png)![Nutmeg_tiger_default.png\|200](/img/user/images/Nutmeg_tiger_default.png)![Capsaicin_default.png\|200](/img/user/images/Capsaicin_default.png)
