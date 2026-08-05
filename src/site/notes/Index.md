@@ -13,3 +13,4 @@ SpiceCake is an AU of Cookie Run Kingdom that takes place, mostly, during the *B
 
 [[Cookies\|Cookies]] - Learn about the denizens of Earthbread.
 [[Humans\|Humans]] - The creators of Cookiekind.
+[[Beasts\|Beasts]] - The Five Virtues, left behind by forsaken creators.
