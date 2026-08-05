@@ -26,17 +26,98 @@ A Cookie's Soulstone determines their capability for magic and power. Rarity is 
 - There is a ninth Soulstone, that being Witch.
 
 Cookies come in many races, though they can be split into some major categories.
-# Plant Cookies
+# Fae Cookies
+
 ```mermaid
 graph TD;
-A[Millenial Tree Cookie]-->B{Time}
-B-->C[Fae]
-B-->D[Dryads]
-C-->E[Crispia Fae]
-C-->F[Beast-Yeast Fae]
-C-->I[Fruit Cookies]
-D-->G[Leaf Cookies]
-D-->H[Root Cookies]
-D-->I[Fruit Cookies]
-I-->J[Flower Cookies]
+A[Millenial Tree Cookie]-->B{Fae}
+B-->C[Crispia Fae Cookies]
+B-->D[Beast-Yeast Fae Cookies]
+```
+## Plant Cookies
+
+```mermaid
+graph TD;
+A[First Leaf Cookie]-->B[Leaf Cookies]
+A-->C[Root Cookies]
+A-->D[Flower Cookies]
+D-->E[White Lily Cookie]
+```
+
+## Fruit Cookies
+
+```mermaid
+graph TD;
+A[First Berry Cookie]-->B[Berry Cookies]
+A-->C[Fruit Cookies]
+B-->D[Hollyberry Cookie]
+```
+## Sea Cookies
+
+```mermaid
+graph TD;
+A[Sea Fairy Cookie]-->B{Sea Cookies}
+B-->C[Fish Cookies]
+A-->D[Mermaid Cookies]
+D-->E[Siren Cookies]
+```
+
+## Drink Cookies
+
+```mermaid
+graph TD;
+A[First Milk Cookie]-->B[Drink Cookies]
+A-->C[Milk Cookies]
+```
+
+## Desert Cookies
+
+```mermaid
+graph TD;
+A[First Cream Cookie]-->D{Descendants}
+B[First Sugar Cookie]-->D
+C[First Vanilla Cookie]-->D
+E[First Sprinkle Cookie]-->D
+F[First Grain Cookie]-->D
+D-->J
+J[Pure Vanilla Cookie]-->G{Ancient Vanillians}
+D-->H[Pastry Cookies]
+G-->I[The Patisserie]
+```
+
+## Chocolate Cookies
+
+```mermaid
+graph TD;
+A[First Choco Cookie]-->B[Choco Cookies]
+A-->C[Cacao Cookies]
+C-->D[Dark Cacao Cookie]
+```
+
+## Salt Cookies
+
+```mermaid
+graph TD;
+A[First Salt Cookie]-->D{General cookies w/ salt traits}
+B[Silent Salt Cookie]-->D
+D-->C[Salt Cookies]
+```
+
+## Harpy Cookies
+
+```mermaid
+graph TD;
+A[Pastry Cookies]-->B{Blessing of Stormbringer Cookie}
+B-->C[Harpy Cookies]
+C-->D[Golden Cheese Cookie]
+C-->E[Wind Deity Cookie]
+```
+
+## Spice Cookies
+
+```mermaid
+graph TD;
+A[Burning Spice Cookie]-->B{Many generations}
+B-->C[Spice Cookies]
+B-->D[Wild Spices]
 ```
