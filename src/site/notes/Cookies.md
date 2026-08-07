@@ -25,40 +25,44 @@ A Cookie's Soulstone determines their capability for magic and power. Rarity is 
 - Beast Soulstones belong to the Five Beasts.
 - There is a ninth Soulstone, that being Witch.
 
-Cookies come in many races, though they can be split into some major categories.
-## Fae Cookies
+Cookies come in many flavors, though they can be split into some major categories.
+## Unflavored Cookies
+
+Unflavored Cookies can only be created by a Human or by Human magic. Or, theoretically, if two unflavored Cookies had a child. The Cookies created by Witches and Wizards in the beginning were all unflavored. It wasn't until they became the First Cookies that flavors began. This is how entire flavors descend from a single cookie.
+
+(In every tree, it is implied that unflavored cookies are a part of the process.)
+
+Any cookie will inherit a flavor if possible, it is impossible to be unflavored if either parent has any semblance of flavor.
+
+Example:
+![Gingerbrave_angry.png\|167](/img/user/images/Gingerbrave_angry.png)
+## Fae Cookies and Plant Cookies
 
 ```mermaid
 graph TD;
-A[Millenial Tree Cookie]-->B{Fae}
+A[Millenial Tree Cookie]-->B{Ancient Fae}
+F[First Leaf Cookie]-->B
+F-->G{Dryads}
+G-->H[Leaf Cookies]
+G-->I[Root Cookies]
+B-->J[Flower Cookies]
 B-->C[Crispia Fae Cookies]
+C-->K[White Lily Cookie]
 B-->D[Beast-Yeast Fae Cookies]
-D-->E[White Lily Cookie]
+G-->J
 ```
 Examples:
 (Beast-Yeast Fae)
-![Elder_faerie_default.png\|200](/img/user/images/Elder_faerie_default.png)![Silverbell_default.png\|200](/img/user/images/Silverbell_default.png)
+![Elder_faerie_default.png\|200](/img/user/images/Elder_faerie_default.png)![Silverbell_default.png\|186](/img/user/images/Silverbell_default.png)
 (Crispia Fae)
 ![White_lily_default.png\|200](/img/user/images/White_lily_default.png)
-*Half Flower*
-## Plant Cookies
-
-```mermaid
-graph TD;
-A[First Leaf Cookie]-->B[Leaf Cookies]
-A-->C[Root Cookies]
-A-->D[Flower Cookies]
-D-->E[White Lily Cookie]
-```
-
-Examples:
 (Flower Cookies)
-![Cherry_Blossom_Sprite_Default.png\|200](/img/user/images/Cherry_Blossom_Sprite_Default.png)![Golden_osmanthus_default.png\|200](/img/user/images/Golden_osmanthus_default.png)![LILAC1.png\|200](/img/user/images/LILAC1.png)
+![Cherry_Blossom_Sprite_Default.png\|200](/img/user/images/Cherry_Blossom_Sprite_Default.png)![Golden_osmanthus_default.png\|152](/img/user/images/Golden_osmanthus_default.png)![LILAC1.png\|200](/img/user/images/LILAC1.png)
 
 (Leaf Cookies)
-![Herbbase.png\|200](/img/user/images/Herbbase.png)
+![Herbbase.png\|168](/img/user/images/Herbbase.png)
 (Root Cookies)
-![Beet_default 1.png\|200](/img/user/images/Beet_default%201.png)![Carrotbase.png\|200](/img/user/images/Carrotbase.png)
+![Beet_default 1.png\|176](/img/user/images/Beet_default%201.png)![Carrotbase.png\|190](/img/user/images/Carrotbase.png)
 ## Fruit Cookies
 
 ```mermaid
@@ -68,10 +72,9 @@ A-->C[Fruit Cookies]
 B-->D[Hollyberry Cookie]
 ```
 (Berry Cookies)
-![Holly_base_2.png\|200](/img/user/images/Holly_base_2.png)![Blackberrybase.png\|150](/img/user/images/Blackberrybase.png)![Raspberry_default.png\|200](/img/user/images/Raspberry_default.png)
+![Holly_base_2.png\|191](/img/user/images/Holly_base_2.png)![Blackberrybase.png\|137](/img/user/images/Blackberrybase.png)![Raspberry_default.png\|200](/img/user/images/Raspberry_default.png)
 (Fruit Cookies)
-![Figbase.png\|200](/img/user/images/Figbase.png)![Mangobase.png\|200](/img/user/images/Mangobase.png)![Orange_default.png\|150](/img/user/images/Orange_default.png)
-*Fig Cookie is half creature*
+![Figbase.png\|200](/img/user/images/Figbase.png)![Mangobase.png\|175](/img/user/images/Mangobase.png)![Orange_default.png\|150](/img/user/images/Orange_default.png)
 ## Sea Cookies
 
 ```mermaid
@@ -97,7 +100,7 @@ A-->C[Milk Cookies]
 ```
 Examples:
 (Drink Cookies)
-![Seltzer_Cookie_default.png\|200](/img/user/images/Seltzer_Cookie_default.png)![Sparkling_default.png\|200](/img/user/images/Sparkling_default.png)
+![Seltzer_Cookie_default.png\|200](/img/user/images/Seltzer_Cookie_default.png)![Sparkling_default.png\|162](/img/user/images/Sparkling_default.png)
 (Milk Cookies)
 ![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)
 *Affogato Cookie is half Cacao*
@@ -117,7 +120,7 @@ G-->I[The Patisserie]
 ```
 Examples:
 (The Patisserie)
-![Clotted_Cream_Sprite_Default.png\|200](/img/user/images/Clotted_Cream_Sprite_Default.png)![Kouign_amann_default.png\|200](/img/user/images/Kouign_amann_default.png)![Madebase.png\|200](/img/user/images/Madebase.png)
+![Clotted_Cream_Sprite_Default.png\|200](/img/user/images/Clotted_Cream_Sprite_Default.png)![Kouign_amann_default.png\|200](/img/user/images/Kouign_amann_default.png)![Madebase.png\|186](/img/user/images/Madebase.png)
 (Pastry Cookies)
 ![Cream_puff_default.png\|150](/img/user/images/Cream_puff_default.png)![Creme_brulee_default.png\|200](/img/user/images/Creme_brulee_default.png)![Eclair_default.png\|200](/img/user/images/Eclair_default.png)
 ## Chocolate Cookies
@@ -132,7 +135,7 @@ Examples:
 (Choco Cookies)
 ![Choco_drizzle_default.png\|200](/img/user/images/Choco_drizzle_default.png)![Caramel_arrow_default (1).png\|200](/img/user/images/Caramel_arrow_default%20(1).png)![Crunchy_chip_default.png\|200](/img/user/images/Crunchy_chip_default.png)
 (Cacao Cookies)
-![Dark_cacao_default.png\|200](/img/user/images/Dark_cacao_default.png)![Dark_choco_base 1.png\|200](/img/user/images/Dark_choco_base%201.png)
+![Dark_cacao_default.png\|200](/img/user/images/Dark_cacao_default.png)![Dark_choco_base 1.png\|158](/img/user/images/Dark_choco_base%201.png)
 ## Salt Cookies
 
 ```mermaid
@@ -142,7 +145,7 @@ B[Silent Salt Cookie]-->D
 D-->C[Salt Cookies]
 ```
 Examples:
-![salt_cellar_default.png\|200](/img/user/images/salt_cellar_default.png)![Silent_salt_default 1.png\|200](/img/user/images/Silent_salt_default%201.png)
+![salt_cellar_default.png\|174](/img/user/images/salt_cellar_default.png)![Silent_salt_default 1.png\|200](/img/user/images/Silent_salt_default%201.png)
 ## Cheese Cookies
 
 ```mermaid
@@ -174,4 +177,4 @@ B-->C[Spice Cookies]
 B-->D[Wild Spices]
 ```
 Examples:
-![Burning_spice_default.png\|200](/img/user/images/Burning_spice_default.png)![Nutmeg_tiger_default.png\|200](/img/user/images/Nutmeg_tiger_default.png)![Capsaicin_default.png\|200](/img/user/images/Capsaicin_default.png)
+![Burning_spice_default.png\|200](/img/user/images/Burning_spice_default.png)![Nutmeg_tiger_default.png\|174](/img/user/images/Nutmeg_tiger_default.png)![Capsaicin_default.png\|176](/img/user/images/Capsaicin_default.png)
