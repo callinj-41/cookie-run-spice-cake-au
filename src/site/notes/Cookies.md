@@ -96,14 +96,16 @@ Examples:
 ```mermaid
 graph TD;
 A[First Milk Cookie]-->B[Drink Cookies]
-A-->C[Milk Cookies]
+A-->C[Milk Cookies]-->D[Shadow Milk Cookie]
+C-->E[Coffee Cookies]
+F[Choco Cookies]-->E
 ```
 Examples:
 (Drink Cookies)
 ![Seltzer_Cookie_default.png\|200](/img/user/images/Seltzer_Cookie_default.png)![Sparkling_default.png\|162](/img/user/images/Sparkling_default.png)
 (Milk Cookies)
-![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)
-*Affogato Cookie is half Cacao*
+![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)![Shadow_milk_default.png\|209](/img/user/Shadow_milk_default.png)
+*Affogato Cookie is half Cacao, Shadow Milk Cookie is half fruit.*
 ## Desert Cookies
 
 ```mermaid
@@ -130,6 +132,8 @@ graph TD;
 A[First Choco Cookie]-->B[Choco Cookies]
 A-->C[Cacao Cookies]
 C-->D[Dark Cacao Cookie]
+F[Milk Cookies]-->G[Coffee Cookies]
+B-->G
 ```
 Examples:
 (Choco Cookies)
@@ -156,18 +160,24 @@ D-->C
 ```
 Examples:
 ![Mozzarella_default.png\|200](/img/user/images/Mozzarella_default.png)![Smoked_cheese_default.png\|200](/img/user/images/Smoked_cheese_default.png)![Golden_cheese_default (1) 1.png\|200](/img/user/images/Golden_cheese_default%20(1)%201.png)
-## Harpy Cookies
+## Harpy Cookies and Sugar Cookies
 
 ```mermaid
 graph TD;
-A[Pastry Cookies]-->B{Blessing of Stormbringer Cookie}
+A[First Sugar Cookie]-->B{Ancient Sugar Cookies}
+H-->G[Eternal Sugar Cookie]
 B-->C[Harpy Cookies]
+B-->H[Sugar Cookies]
 C-->D[Golden Cheese Cookie]
 F[Cheese Cookies]-->D
 C-->E[Wind Deity Cookie]
 ```
 Examples:
-![Sugarfly_default.png\|200](/img/user/images/Sugarfly_default.png)![Golden_cheese_default (1).png\|200](/img/user/images/Golden_cheese_default%20(1).png)
+(Sugar Cookies)
+![Sugarfly_default.png\|200](/img/user/images/Sugarfly_default.png)![Eternal_sugar_default.png\|229](/img/user/Eternal_sugar_default.png)![Sugar_Swan_default.png\|140](/img/user/Sugar_Swan_default.png)
+(Harpy Cookies)
+![Golden_cheese_default (1).png\|200](/img/user/images/Golden_cheese_default%20(1).png)
+*Golden Cheese Cookie is half cheese*
 ## Spice Cookies
 
 ```mermaid
