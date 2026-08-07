@@ -6,7 +6,7 @@
 
 Cookies are not really actually cookies, but the naming scheme for basically everything they have is cookie-themed. Biologically, cookies are magic organisms with blood (jam), bones, organs...
 
-![cookie example.png](/img/user/images/cookie%20example.png)
+![cookie example 1.png\|cookie example.png](/img/user/images/cookie%20example%201.png)
 
 Cookies are a cursed form of Human, having the anatomy of such and fake magic replicas of their bodily features. This is why they often don't take the name of the real features, like how blood is jam, or how hair can be called frosting.
 
