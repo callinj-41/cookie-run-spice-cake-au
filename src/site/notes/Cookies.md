@@ -117,6 +117,7 @@ Examples:
 ```mermaid
 graph TD;
 A[First Cream Cookie]-->D{Descendants}
+D-->K[Candy Cookies]
 B[First Sugar Cookie]-->D
 C[First Vanilla Cookie]-->D
 E[First Sprinkle Cookie]-->D
@@ -142,10 +143,10 @@ F[Milk Cookies]-->G[Coffee Cookies]
 B-->G
 ```
 Examples:
-(Choco Cookies)
-![Choco_drizzle_default.png\|200](/img/user/images/Choco_drizzle_default.png)![Caramel_arrow_default (1).png\|200](/img/user/images/Caramel_arrow_default%20(1).png)![Crunchy_chip_default.png\|200](/img/user/images/Crunchy_chip_default.png)
-(Cacao Cookies)
-![Dark_cacao_default.png\|200](/img/user/images/Dark_cacao_default.png)![Dark_choco_base 1.png\|158](/img/user/images/Dark_choco_base%201.png)
+![chocoandcacao.png\|510](/img/user/chocoandcacao.png)
+Cacao and Choco cookies are very similar, though with some slight differences. Cacao hair is usually completely black, rarely with white streaks, though that's more a trait in the royal family exclusively. Cacao cookies are usually darker as well. Their eyes are usually a dark vibrant color, purple red or orange.
+
+Choco cookies are slightly lighter, and their hair much more commonly has streaks that are more likely colored rather than white. Their eyes 90% of the time are black, not colored. Their hair can also be lighter, sometimes being a beige or brown color rather than black.
 ## Salt Cookies
 
 ```mermaid
