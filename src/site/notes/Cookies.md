@@ -55,12 +55,15 @@ G-->J
 ```
 Examples:
 (Beast-Yeast Fae)
-![beastyeastfae.png\|508](/img/user/beastyeastfae.png)
+![beastyeastfae.png\|508](/img/user/images/beastyeastfae.png)
 Beast-Yeast Fae look more like Ancient Fae, retaining almost the exact same traits. Their skin is a hardened exo-skeleton, made of the same material that the Silver Tree is made of. They are gray with iridescent yellows, pinks, and blues.
 
+Most Beast-Yeast Fae are either Absent or Ambigenous, very rare are they Male or Female.
 (Crispia Fae)
-![crispiaFaer.png\|511](/img/user/crispiaFaer.png)
+![crispiaFaer.png\|511](/img/user/images/crispiaFaer.png)
 Crispia Fae arrived in Crispia not very long ago. While a majority of their skin is still hardened, it has become more like soft wood, and they come in much more vibrant colors. They often carry flower and fruit traits.
+
+Similar to Beast-Yeast Fae, most Crispia Fae are Absent or Ambigenous, though Male and Female Fae are somewhat more common.
 
 (Flower Cookies)
 ![Cherry_Blossom_Sprite_Default.png\|200](/img/user/images/Cherry_Blossom_Sprite_Default.png)![Golden_osmanthus_default.png\|152](/img/user/images/Golden_osmanthus_default.png)![LILAC1.png\|200](/img/user/images/LILAC1.png)
@@ -110,7 +113,7 @@ Examples:
 (Drink Cookies)
 ![Seltzer_Cookie_default.png\|200](/img/user/images/Seltzer_Cookie_default.png)![Sparkling_default.png\|162](/img/user/images/Sparkling_default.png)
 (Milk Cookies)
-![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)![Shadow_milk_default.png\|209](/img/user/Shadow_milk_default.png)
+![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)![Shadow_milk_default.png\|209](/img/user/images/Shadow_milk_default.png)
 *Affogato Cookie is half Cacao, Shadow Milk Cookie is half fruit.*
 ## Desert Cookies
 
@@ -143,7 +146,7 @@ F[Milk Cookies]-->G[Coffee Cookies]
 B-->G
 ```
 Examples:
-![chocoandcacao.png\|510](/img/user/chocoandcacao.png)
+![chocoandcacao 1.png\|510](/img/user/images/chocoandcacao%201.png)
 Cacao and Choco cookies are very similar, though with some slight differences. Cacao hair is usually completely black, rarely with white streaks, though that's more a trait in the royal family exclusively. Cacao cookies are usually darker as well. Their eyes are usually a dark vibrant color, purple red or orange.
 
 Choco cookies are slightly lighter, and their hair much more commonly has streaks that are more likely colored rather than white. Their eyes 90% of the time are black, not colored. Their hair can also be lighter, sometimes being a beige or brown color rather than black.
@@ -180,7 +183,7 @@ F[Cheese Cookies]-->D
 ```
 Examples:
 (Sugar Cookies)
-![Sugarfly_default.png\|200](/img/user/images/Sugarfly_default.png)![Eternal_sugar_default.png\|229](/img/user/Eternal_sugar_default.png)![Sugar_Swan_default.png\|140](/img/user/Sugar_Swan_default.png)
+![Sugarfly_default.png\|200](/img/user/images/Sugarfly_default.png)![Eternal_sugar_default.png\|229](/img/user/images/Eternal_sugar_default.png)![Sugar_Swan_default.png\|140](/img/user/images/Sugar_Swan_default.png)
 (Harpy Cookies)
 ![Golden_cheese_default (1).png\|200](/img/user/images/Golden_cheese_default%20(1).png)
 *Golden Cheese Cookie is half cheese*
