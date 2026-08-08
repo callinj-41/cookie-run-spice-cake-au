@@ -25,6 +25,8 @@ A Cookie's Soulstone determines their capability for magic and power. Rarity is 
 - Beast Soulstones belong to the Five Beasts.
 - There is a ninth Soulstone, that being Witch.
 
+There are four biological sexes for Cookies. Nobody exactly knows why, but a Cookie is more likely to be the sex of one of their parents then not. While Cookies do biologically reproduce, science and the harnessing of ancient Human magic has made it not only possible but easy and normalized for a pairing that cannot biologically reproduce to do so. Cookies can be Male, Female, Absent (completely hormonally balanced, no reproductive organs), and Ambigenous. (can range in hormonal composition, both reproductive organs). All four are generally equally common, though certain sexes are more common in certain flavors.
+
 Cookies come in many flavors, though they can be split into some major categories.
 ## Unflavored Cookies
 
@@ -53,7 +55,7 @@ G-->J
 ```
 Examples:
 (Beast-Yeast Fae)
-![Elder_faerie_default.png\|200](/img/user/images/Elder_faerie_default.png)![Silverbell_default.png\|186](/img/user/images/Silverbell_default.png)
+![beastyeastfae.png\|508](/img/user/beastyeastfae.png)
 (Crispia Fae)
 ![White_lily_default.png\|200](/img/user/images/White_lily_default.png)
 (Flower Cookies)
