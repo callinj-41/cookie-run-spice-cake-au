@@ -56,8 +56,12 @@ G-->J
 Examples:
 (Beast-Yeast Fae)
 ![beastyeastfae.png\|508](/img/user/beastyeastfae.png)
+Beast-Yeast Fae look more like Ancient Fae, retaining almost the exact same traits. Their skin is a hardened exo-skeleton, made of the same material that the Silver Tree is made of. They are gray with iridescent yellows, pinks, and blues.
+
 (Crispia Fae)
-![White_lily_default.png\|200](/img/user/images/White_lily_default.png)
+![crispiaFaer.png\|511](/img/user/crispiaFaer.png)
+Crispia Fae arrived in Crispia not very long ago. While a majority of their skin is still hardened, it has become more like soft wood, and they come in much more vibrant colors. They often carry flower and fruit traits.
+
 (Flower Cookies)
 ![Cherry_Blossom_Sprite_Default.png\|200](/img/user/images/Cherry_Blossom_Sprite_Default.png)![Golden_osmanthus_default.png\|152](/img/user/images/Golden_osmanthus_default.png)![LILAC1.png\|200](/img/user/images/LILAC1.png)
 
@@ -172,7 +176,6 @@ B-->C[Harpy Cookies]
 B-->H[Sugar Cookies]
 C-->D[Golden Cheese Cookie]
 F[Cheese Cookies]-->D
-C-->E[Wind Deity Cookie]
 ```
 Examples:
 (Sugar Cookies)
