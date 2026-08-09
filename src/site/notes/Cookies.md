@@ -185,7 +185,7 @@ Examples:
 ![harpyCookies.png\|692](/img/user/harpyCookies.png)
 While Harpy and Sugar Cookies both have sugary silk-like hair and feathers, Harpy Cookies have drifted over time to be lesser and smaller than Sugar Cookies. As well as this, Sugar Cookies always have three sets of wings, and Harpy Cookies have two. (Can vary in placement.)
 
-Sugar Cookies are almost always some shade of pink, purple, or red. Harpy Cookies on the other hand can be any color, but their skin must be a shade of brown or peach.
+Sugar Cookies are almost always some shade of pink, purple, or red. Harpy Cookies on the other hand can be any color, but their skin must be a shade of brown or peach. Sugar Cookies always have a halo of some kind, and Harpy Cookies do not.
 ## Spice Cookies
 
 ```mermaid
