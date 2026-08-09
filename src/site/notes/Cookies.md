@@ -204,6 +204,11 @@ D[Wild Spices]-->C
 ```
 Examples:
 (Spice Cookies)
-![spicecookies.png](/img/user/spicecookies.png)
+![spicecookies 1.png\|spicecookies.png](/img/user/spicecookies%201.png)
+
+(Pure Spice Cookies)
+![spicecookies2.png\|302](/img/user/spicecookies2.png)
 
 Pure Spice Cookies are much more directly related to Burning Spice Cookie, having names such as '___ Spice Cookie'. Regular Spice Cookies, on the other hand, are the more common kind. A majority of them are descendants of both Cookies and Wild Spices.
+
+Pure Spice Cookies often have a red antennae. Their ears can be furred or bare, more often furred then not. Spice Cookies can be a range of colors, but Pure Spice Cookies are often only red, sometimes with black markings.
