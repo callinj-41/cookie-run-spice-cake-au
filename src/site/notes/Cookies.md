@@ -198,8 +198,12 @@ Sugar Cookies are almost always some shade of pink, purple, or red. Harpy Cookie
 ```mermaid
 graph TD;
 A[Burning Spice Cookie]-->B{Many generations}
+B-->F[Pure Spice Cookies]
 B-->C[Spice Cookies]
-B-->D[Wild Spices]
+D[Wild Spices]-->C
 ```
 Examples:
-![Burning_spice_default.png\|200](/img/user/images/Burning_spice_default.png)![Nutmeg_tiger_default.png\|174](/img/user/images/Nutmeg_tiger_default.png)![Capsaicin_default.png\|176](/img/user/images/Capsaicin_default.png)
+(Spice Cookies)
+![spicecookies.png](/img/user/spicecookies.png)
+
+Pure Spice Cookies are much more directly related to Burning Spice Cookie, having names such as '___ Spice Cookie'. Regular Spice Cookies, on the other hand, are the more common kind. A majority of them are descendants of both Cookies and Wild Spices.
