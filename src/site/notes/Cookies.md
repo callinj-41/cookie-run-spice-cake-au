@@ -182,11 +182,7 @@ C-->D[Golden Cheese Cookie]
 F[Cheese Cookies]-->D
 ```
 Examples:
-(Sugar Cookies)
-![Sugarfly_default.png\|200](/img/user/images/Sugarfly_default.png)![Eternal_sugar_default.png\|229](/img/user/images/Eternal_sugar_default.png)![Sugar_Swan_default.png\|140](/img/user/images/Sugar_Swan_default.png)
-(Harpy Cookies)
-![Golden_cheese_default (1).png\|200](/img/user/images/Golden_cheese_default%20(1).png)
-*Golden Cheese Cookie is half cheese*
+![harpyCookies.png\|692](/img/user/harpyCookies.png)
 ## Spice Cookies
 
 ```mermaid
