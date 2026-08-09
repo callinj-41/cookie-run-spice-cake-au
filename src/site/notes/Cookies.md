@@ -81,9 +81,12 @@ A-->C[Fruit Cookies]
 B-->D[Hollyberry Cookie]
 ```
 (Berry Cookies)
-![Holly_base_2.png\|191](/img/user/images/Holly_base_2.png)![Blackberrybase.png\|137](/img/user/images/Blackberrybase.png)![Raspberry_default.png\|200](/img/user/images/Raspberry_default.png)
+![berrycookies.png\|509](/img/user/berrycookies.png)
+Both Berry and Fruit Cookies have the capacity to grow fruit (other then their hair) and leaves. The difference is that Berry Cookies always grow leaves alongside their berries, while Fruit Cookies can very optionally grow leaves or fruit.
+
+Berry Cookies often have darker skin than Fruit Cookies, and Fruit Cookies have skin that can tint a lot more unnaturally than Berry Cookies. Fruit Cookies often have round and puffy hair, while Berry Cookies have more natural hair that clumps into berry-like shapes.
 (Fruit Cookies)
-![Figbase.png\|200](/img/user/images/Figbase.png)![Mangobase.png\|175](/img/user/images/Mangobase.png)![Orange_default.png\|150](/img/user/images/Orange_default.png)
+![fruitcookies.png\|509](/img/user/fruitcookies.png)
 ## Sea Cookies
 
 ```mermaid
@@ -156,10 +159,14 @@ Choco cookies are slightly lighter, and their hair much more commonly has streak
 graph TD;
 A[First Salt Cookie]-->D{General cookies w/ salt traits}
 B[Silent Salt Cookie]-->D
+D-->F[Rock Cookies]
 D-->C[Salt Cookies]
 ```
 Examples:
+(Salt Cookies)
 ![salt_cellar_default.png\|174](/img/user/images/salt_cellar_default.png)![Silent_salt_default 1.png\|200](/img/user/images/Silent_salt_default%201.png)
+(Rock Cookies)
+![1024px-Crk_illustration_ruby.png\|192](/img/user/1024px-Crk_illustration_ruby.png)![800px-Crk_moonstone_default.png\|149](/img/user/800px-Crk_moonstone_default.png)
 ## Cheese Cookies
 
 ```mermaid
