@@ -126,10 +126,8 @@ D-->H[Pastry Cookies]
 G-->I[The Patisserie]
 ```
 Examples:
-(The Patisserie)
-![Clotted_Cream_Sprite_Default.png\|200](/img/user/images/Clotted_Cream_Sprite_Default.png)![Kouign_amann_default.png\|200](/img/user/images/Kouign_amann_default.png)![Madebase.png\|186](/img/user/images/Madebase.png)
-(Pastry Cookies)
-![Cream_puff_default.png\|150](/img/user/images/Cream_puff_default.png)![Creme_brulee_default.png\|200](/img/user/images/Creme_brulee_default.png)![Eclair_default.png\|200](/img/user/images/Eclair_default.png)
+![pastrycookies.png\|512](/img/user/pastrycookies.png)
+Cookies directly descending from Pure Vanilla Cookie often have lighter skin and white, sometimes cream colored hair. On the other hand, other Pastry Cookies will have darker skin and hair, and they can often have a larger variety of colors.
 ## Chocolate Cookies
 
 ```mermaid
