@@ -38,10 +38,15 @@ Any cookie will inherit a flavor if possible, it is impossible to be unflavored 
 
 Example:
 ![Gingerbrave_angry.png\|167](/img/user/images/Gingerbrave_angry.png)
-## Fae Cookies and Plant Cookies
+## Fae Cookies, Plant Cookies, and Fruit-Bearing Cookies
 
 ```mermaid
 graph TD;
+X[First Berry Cookie]-->Y{Fruit-Bearing Cookies}
+G-->Y
+Y-->V[Berry Cookies]
+V-->S[Hollyberry Cookie]
+Y-->P[Fruit Cookies]
 A[Millenial Tree Cookie]-->B{Ancient Fae}
 F[First Leaf Cookie]-->B
 F-->G{Dryads}
@@ -72,19 +77,12 @@ Similar to Beast-Yeast Fae, most Crispia Fae are Absent or Ambigenous, though Ma
 ![Herbbase.png\|168](/img/user/images/Herbbase.png)
 (Root Cookies)
 ![Beet_default 1.png\|176](/img/user/images/Beet_default%201.png)![Carrotbase.png\|190](/img/user/images/Carrotbase.png)
-## Fruit Cookies
-
-```mermaid
-graph TD;
-A[First Berry Cookie]-->B[Berry Cookies]
-A-->C[Fruit Cookies]
-B-->D[Hollyberry Cookie]
-```
 (Berry Cookies)
 ![berrycookies.png\|509](/img/user/berrycookies.png)
 Both Berry and Fruit Cookies have the capacity to grow fruit (other then their hair) and leaves. The difference is that Berry Cookies always grow leaves alongside their berries, while Fruit Cookies can very optionally grow leaves or fruit.
 
 Berry Cookies often have darker skin than Fruit Cookies, and Fruit Cookies have skin that can tint a lot more unnaturally than Berry Cookies. Fruit Cookies often have round and puffy hair, while Berry Cookies have more natural hair that clumps into berry-like shapes.
+
 (Fruit Cookies)
 ![fruitcookies.png\|509](/img/user/fruitcookies.png)
 ## Sea Cookies
