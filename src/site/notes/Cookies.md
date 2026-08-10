@@ -79,10 +79,16 @@ Berry Cookies often have darker skin than Fruit Cookies, and Fruit Cookies have 
 
 (Fruit Cookies)
 ![fruitcookies.png\|509](/img/user/fruitcookies.png)
-## Sea Cookies
+## Sea Cookies and Drink Cookies
 
 ```mermaid
 graph TD;
+X-->Z[Milk Cookies]-->V[Shadow Milk Cookie]
+Z-->W[Coffee Cookies]
+Q[Choco Cookies]-->W
+X[First Milk Cookie]-->Y[Drink Cookies]
+B-->Y
+
 A[Sea Fairy Cookie]-->B{Sea Cookies}
 B-->C[Fish Cookies]
 A-->D[Mermaid Cookies]
@@ -95,21 +101,8 @@ Examples:
 ![Frilled_jellyfish_default.png\|200](/img/user/images/Frilled_jellyfish_default.png)![SharkformMotivated.png\|200](/img/user/images/SharkformMotivated.png)
 (Siren Cookies)
 ![Black_pearl_default.png\|200](/img/user/images/Black_pearl_default.png)
-## Drink Cookies
 
-```mermaid
-graph TD;
-A[First Milk Cookie]-->B[Drink Cookies]
-A-->C[Milk Cookies]-->D[Shadow Milk Cookie]
-C-->E[Coffee Cookies]
-F[Choco Cookies]-->E
-```
-Examples:
-(Drink Cookies)
-![Seltzer_Cookie_default.png\|200](/img/user/images/Seltzer_Cookie_default.png)![Sparkling_default.png\|162](/img/user/images/Sparkling_default.png)
-(Milk Cookies)
-![Milkbase.png\|200](/img/user/images/Milkbase.png)![Affogato_sprite1.png\|200](/img/user/images/Affogato_sprite1.png)![Shadow_milk_default.png\|209](/img/user/images/Shadow_milk_default.png)
-*Affogato Cookie is half Cacao, Shadow Milk Cookie is half fruit.*
+![coffeecookies.png](/img/user/coffeecookies.png)
 ## Desert Cookies
 
 ```mermaid
