@@ -70,13 +70,7 @@ Crispia Fae arrived in Crispia not very long ago. While a majority of their skin
 
 Similar to Beast-Yeast Fae, most Crispia Fae are Absent or Ambigenous, though Male and Female Fae are somewhat more common.
 
-(Flower Cookies)
-![Cherry_Blossom_Sprite_Default.png\|200](/img/user/images/Cherry_Blossom_Sprite_Default.png)![Golden_osmanthus_default.png\|152](/img/user/images/Golden_osmanthus_default.png)![LILAC1.png\|200](/img/user/images/LILAC1.png)
-
-(Leaf Cookies)
-![Herbbase.png\|168](/img/user/images/Herbbase.png)
-(Root Cookies)
-![Beet_default 1.png\|176](/img/user/images/Beet_default%201.png)![Carrotbase.png\|190](/img/user/images/Carrotbase.png)
+![leafcookies.png](/img/user/leafcookies.png)
 (Berry Cookies)
 ![berrycookies.png\|509](/img/user/berrycookies.png)
 Both Berry and Fruit Cookies have the capacity to grow fruit (other then their hair) and leaves. The difference is that Berry Cookies always grow leaves alongside their berries, while Fruit Cookies can very optionally grow leaves or fruit.
