@@ -91,18 +91,19 @@ B-->Y
 
 A[Sea Fairy Cookie]-->B{Sea Cookies}
 B-->C[Fish Cookies]
-A-->D[Mermaid Cookies]
-D-->E[Siren Cookies]
+A-->D[Gem Mermaid Cookies]
+A-->E[Merfolk Cookies]
 ```
 Examples:
-(Fish Cookies)
-![Oyster_Sprite_Default.png\|200](/img/user/images/Oyster_Sprite_Default.png)![Captain_Caviar_Cookie_Default.png\|150](/img/user/images/Captain_Caviar_Cookie_Default.png)
-(Mermaid Cookies)
-![Frilled_jellyfish_default.png\|200](/img/user/images/Frilled_jellyfish_default.png)![SharkformMotivated.png\|200](/img/user/images/SharkformMotivated.png)
-(Siren Cookies)
-![Black_pearl_default.png\|200](/img/user/images/Black_pearl_default.png)
+![seacookies.png](/img/user/seacookies.png)
 
 ![coffeecookies.png](/img/user/coffeecookies.png)
+
+Drink Cookies have hair that is soft and drippy, made out of some kind of liquid substance, as well as gills on their cheeks and necks. Drinks have pointed ears while Milk and Coffee Cookies have rounded ears, with Milk Cookies having longer floppier ears. Milk Cookies also have soft liquid-like hair, but it's more gelatinous. Coffee Cookies have slightly smoother and shinier hair than Choco Cookies.
+
+Milk and Coffee Cookies have pure black pupils.
+
+Drink Cookies also have parts of their body that consist of liquid, not skin. This is commonly only small portions, but at its rarest, it can be the entire body below the neck.
 ## Desert Cookies
 
 ```mermaid
@@ -159,7 +160,7 @@ B[Fire Spirit Cookie]-->D{Ancient fire cookies}
 D-->C
 ```
 Examples:
-![Mozzarella_default.png\|200](/img/user/images/Mozzarella_default.png)![Smoked_cheese_default.png\|200](/img/user/images/Smoked_cheese_default.png)![Golden_cheese_default (1) 1.png\|200](/img/user/images/Golden_cheese_default%20(1)%201.png)
+![cheesecookies.png\|467](/img/user/cheesecookies.png)
 ## Harpy Cookies and Sugar Cookies
 
 ```mermaid
