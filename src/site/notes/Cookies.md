@@ -148,6 +148,7 @@ D-->C[Salt Cookies]
 ```
 Examples:
 ![rockcookies.png](/img/user/rockcookies.png)
+Salt and Rock Cookies are very similar. Both have two striking features: Hair made of stone and pupil-less eyes. The main difference is that Salt Cookies are entirely pale, while Rock Cookies are bright and colorful.
 ## Cheese Cookies
 
 ```mermaid
