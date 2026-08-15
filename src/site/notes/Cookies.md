@@ -159,6 +159,7 @@ D-->C
 ```
 Examples:
 ![cheesecookies.png\|467](/img/user/images/cheesecookies.png)
+Cheese Cookies always have some kind of yellow or pale hair, usually soft or kinked, and they commonly have colored markings on their body.
 ## Harpy Cookies and Sugar Cookies
 
 ```mermaid
