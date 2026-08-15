@@ -195,3 +195,15 @@ Examples:
 Pure Spice Cookies are much more directly related to Burning Spice Cookie, having names such as '___ Spice Cookie'. Regular Spice Cookies, on the other hand, are the more common kind. A majority of them are descendants of both Cookies and Wild Spices.
 
 Pure Spice Cookies often have a red antennae. Their ears can be furred or bare, more often furred then not. Spice Cookies can be a range of colors, but Pure Spice Cookies are often only red, sometimes with black markings.
+
+## Flour Cookies
+```mermaid
+graph TD;
+A[First Grain Cookie]-->B{Many Generations}
+B-->C[Mystic Flour Cookie]
+B-->D[Flour Cookies]
+```
+Examples:
+![flourCookies.png\|246](/img/user/flourCookies.png)
+
+Flour Cookies have pale soft dough with hair either slightly darker or the same as their skin. Their sclera are black and their pupils are white.
