@@ -70,15 +70,15 @@ Crispia Fae arrived in Crispia not very long ago. While a majority of their skin
 
 Similar to Beast-Yeast Fae, most Crispia Fae are Absent or Ambigenous, though Male and Female Fae are somewhat more common.
 
-![leafcookies.png](/img/user/leafcookies.png)
+![leafcookies.png](/img/user/images/leafcookies.png)
 (Berry Cookies)
-![berrycookies.png\|509](/img/user/berrycookies.png)
+![berrycookies.png\|509](/img/user/images/berrycookies.png)
 Both Berry and Fruit Cookies have the capacity to grow fruit (other then their hair) and leaves. The difference is that Berry Cookies always grow leaves alongside their berries, while Fruit Cookies can very optionally grow leaves or fruit.
 
 Berry Cookies often have darker skin than Fruit Cookies, and Fruit Cookies have skin that can tint a lot more unnaturally than Berry Cookies. Fruit Cookies often have round and puffy hair, while Berry Cookies have more natural hair that clumps into berry-like shapes.
 
 (Fruit Cookies)
-![fruitcookies.png\|509](/img/user/fruitcookies.png)
+![fruitcookies.png\|509](/img/user/images/fruitcookies.png)
 ## Sea Cookies and Drink Cookies
 
 ```mermaid
@@ -95,9 +95,9 @@ A-->D[Gem Mermaid Cookies]
 A-->E[Merfolk Cookies]
 ```
 Examples:
-![seacookies.png](/img/user/seacookies.png)
+![seacookies.png](/img/user/images/seacookies.png)
 
-![coffeecookies.png](/img/user/coffeecookies.png)
+![coffeecookies.png](/img/user/images/coffeecookies.png)
 
 Drink Cookies have hair that is soft and drippy, made out of some kind of liquid substance, as well as gills on their cheeks and necks. Drinks have pointed ears while Milk and Coffee Cookies have rounded ears, with Milk Cookies having longer floppier ears. Milk Cookies also have soft liquid-like hair, but it's more gelatinous. Coffee Cookies have slightly smoother and shinier hair than Choco Cookies.
 
@@ -120,7 +120,7 @@ D-->H[Pastry Cookies]
 G-->I[The Patisserie]
 ```
 Examples:
-![pastrycookies.png\|512](/img/user/pastrycookies.png)
+![pastrycookies.png\|512](/img/user/images/pastrycookies.png)
 Cookies directly descending from Pure Vanilla Cookie often have lighter skin and white, sometimes cream colored hair. On the other hand, other Pastry Cookies will have darker skin and hair, and they can often have a larger variety of colors.
 ## Chocolate Cookies
 
@@ -147,10 +147,7 @@ D-->F[Rock Cookies]
 D-->C[Salt Cookies]
 ```
 Examples:
-(Salt Cookies)
-![salt_cellar_default.png\|174](/img/user/images/salt_cellar_default.png)![Silent_salt_default 1.png\|200](/img/user/images/Silent_salt_default%201.png)
-(Rock Cookies)
-![1024px-Crk_illustration_ruby.png\|192](/img/user/1024px-Crk_illustration_ruby.png)![800px-Crk_moonstone_default.png\|149](/img/user/800px-Crk_moonstone_default.png)
+![rockcookies.png](/img/user/rockcookies.png)
 ## Cheese Cookies
 
 ```mermaid
@@ -160,7 +157,7 @@ B[Fire Spirit Cookie]-->D{Ancient fire cookies}
 D-->C
 ```
 Examples:
-![cheesecookies.png\|467](/img/user/cheesecookies.png)
+![cheesecookies.png\|467](/img/user/images/cheesecookies.png)
 ## Harpy Cookies and Sugar Cookies
 
 ```mermaid
@@ -173,7 +170,7 @@ C-->D[Golden Cheese Cookie]
 F[Cheese Cookies]-->D
 ```
 Examples:
-![harpyCookies.png\|692](/img/user/harpyCookies.png)
+![harpyCookies.png\|692](/img/user/images/harpyCookies.png)
 While Harpy and Sugar Cookies both have sugary silk-like hair and feathers, Harpy Cookies have drifted over time to be lesser and smaller than Sugar Cookies. As well as this, Sugar Cookies always have three sets of wings, and Harpy Cookies have two. (Can vary in placement.)
 
 Sugar Cookies are almost always some shade of pink, purple, or red. Harpy Cookies on the other hand can be any color, but their skin must be a shade of brown or peach. Sugar Cookies always have a halo of some kind, and Harpy Cookies do not.
@@ -188,10 +185,10 @@ D[Wild Spices]-->C
 ```
 Examples:
 (Spice Cookies)
-![spicecookies 1.png\|spicecookies.png](/img/user/spicecookies%201.png)
+![spicecookies 1.png\|spicecookies.png](/img/user/images/spicecookies%201.png)
 
 (Pure Spice Cookies)
-![spicecookies2.png\|302](/img/user/spicecookies2.png)
+![spicecookies2.png\|302](/img/user/images/spicecookies2.png)
 
 Pure Spice Cookies are much more directly related to Burning Spice Cookie, having names such as '___ Spice Cookie'. Regular Spice Cookies, on the other hand, are the more common kind. A majority of them are descendants of both Cookies and Wild Spices.
 
