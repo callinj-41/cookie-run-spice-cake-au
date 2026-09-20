@@ -9,4 +9,4 @@ After the tragedy of The Five Virtues, the remaining part of the Beasts' soul ja
 Over time, each ancients body has begun to adjust to the soul jam, becoming more like their immortal beastly predecessors. Each one has learned to, and at most times instinctually, keep their power dormant, which gives them a regular cookie appearance.
 
 ## ANCIENT OF RESOLUTION - DARK CACAO COOKIE
-![darkcacao 1.png\|692](/img/user/darkcacao%201.png)
+![darkcacao 1.png](/img/user/images/darkcacao%201.png)
