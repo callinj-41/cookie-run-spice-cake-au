@@ -10,3 +10,6 @@ Over time, each ancients body has begun to adjust to the soul jam, becoming more
 
 ## ANCIENT OF RESOLUTION - DARK CACAO COOKIE
 ![darkcacao 1.png](/img/user/images/darkcacao%201.png)
+
+## ANCIENT OF ABUNDANCE - GOLDEN CHEESE COOKIE
+![goldencheese.png](/img/user/goldencheese.png)
