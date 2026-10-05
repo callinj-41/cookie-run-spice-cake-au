@@ -28,6 +28,8 @@ A Cookie's Soulstone determines their capability for magic and power. Rarity is 
 There are four biological sexes for Cookies. Nobody exactly knows why, but a Cookie is more likely to be the sex of one of their parents then not. While Cookies do biologically reproduce, science and the harnessing of ancient Human magic has made it not only possible but easy and normalized for a pairing that cannot biologically reproduce to do so. Cookies can be Male, Female, Absent (completely hormonally balanced, no reproductive organs), and Ambigenous. (can range in hormonal composition, both reproductive organs). All four are generally equally common, though certain sexes are more common in certain flavors.
 
 Cookies come in many flavors, though they can be split into some major categories.
+
+Cookies often have a personal name and a flavored name. Flavored names are like last names in this world, and often are the same or similar to their parents. Flavored names are often linguistically translatable due to being nouns, while personal names are not and language-dependent.
 ## Unflavored Cookies
 
 Unflavored Cookies can only be created by a Human or by Human magic. Or, theoretically, if two unflavored Cookies had a child. The Cookies created by Witches and Wizards in the beginning were all unflavored. It wasn't until they became the First Cookies that flavors began. This is how entire flavors descend from a single cookie.
@@ -147,7 +149,7 @@ D-->F[Rock Cookies]
 D-->C[Salt Cookies]
 ```
 Examples:
-![rockcookies.png](/img/user/rockcookies.png)
+![rockcookies.png](/img/user/images/rockcookies.png)
 Salt and Rock Cookies are very similar. Both have two striking features: Hair made of stone and pupil-less eyes. The main difference is that Salt Cookies are entirely pale, while Rock Cookies are bright and colorful.
 ## Cheese Cookies
 
@@ -204,6 +206,6 @@ B-->C[Mystic Flour Cookie]
 B-->D[Flour Cookies]
 ```
 Examples:
-![flourCookies.png\|246](/img/user/flourCookies.png)
+![flourCookies.png\|246](/img/user/images/flourCookies.png)
 
 Flour Cookies have pale soft dough with hair either slightly darker or the same as their skin. Their sclera are black and their pupils are white.
