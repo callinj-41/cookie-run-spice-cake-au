@@ -11,6 +11,6 @@ Humans come from a land far far away, and all known to Earthbread are either Wit
 ![firstmilkcookie.png](/img/user/images/firstmilkcookie.png)
 ==(Pictured here is First Milk Cookie, before her curse.)==
 
-Unfortunately, the greed and pride in First Egg Cookie's heart caused her to curse her brothers and sisters to oblivion, and *The Witch of Light* could only save herself and her followers by turning themselves into Cookies.
+Unfortunately, the greed and pride in First Egg's heart caused her to curse her brothers and sisters to oblivion, and *The Witch of Light* could only save herself and her followers by turning themselves into Cookies.
 
-
+The Witches and Wizards created Sugar Swan, who became the base template for all other Cookie life. To carve out and create the land, they created the Guardians of Nature. When they were still Witches, they oversaw and protected Cookiekind, but when they disappeared, they left behind The Five Virtues.
